@@ -13,6 +13,6 @@ This is an Excel Add-In to delete hidden rows, columns, and sheets.
 
  ![click draw](https://github.com/minoru-nagasawa/DeleteHiddenObjectAddin/blob/master/click.png)  
 
-2. Check target and click "Delete".
+2. Check target and then click "Delete".
 
  ![borders drawn](https://github.com/minoru-nagasawa/DeleteHiddenObjectAddin/blob/master/select.png)  
